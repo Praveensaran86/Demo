@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="93104" started-at="2021-02-23T05:53:50Z" finished-at="2021-02-23T05:55:23Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="93104" started-at="2021-02-23T05:53:50Z" finished-at="2021-02-23T05:55:23Z">
+      <class name="org.testngdemo.Crossbrowser">
+        <test-method status="PASS" signature="tc0()[pri:0, instance:org.testngdemo.Crossbrowser@6f7fd0e6]" name="tc0" duration-ms="23652" started-at="2021-02-23T05:53:50Z" finished-at="2021-02-23T05:54:14Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc0 -->
+        <test-method status="PASS" signature="tc1()[pri:0, instance:org.testngdemo.Crossbrowser@6f7fd0e6]" name="tc1" duration-ms="69375" started-at="2021-02-23T05:54:14Z" finished-at="2021-02-23T05:55:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc1 -->
+      </class> <!-- org.testngdemo.Crossbrowser -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
